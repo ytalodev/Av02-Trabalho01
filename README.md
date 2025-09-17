@@ -7,5 +7,6 @@ O projeto imprime um simples "Hello, World!"
 
 📂 Arquivos:
 HelloWorld.py → Arquivo principal em Python que executa o programa.
+
 README.md → Documento explicativo do projeto.
 
